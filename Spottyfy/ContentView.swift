@@ -13,7 +13,7 @@ struct ContentView: View {
         Image("poop")
             .resizable()
             .cornerRadius(14)
-            .aspectRatio(contentMode: .fit)
+            .aspectRatio(contentMode: .fill)
         
     }
 }
