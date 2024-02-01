@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CBC259762B6B31F200E5FA56 /* SpottyfyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC259752B6B31F200E5FA56 /* SpottyfyApp.swift */; };
+		CBC259762B6B31F200E5FA56 /* SpottyfiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC259752B6B31F200E5FA56 /* SpottyfiApp.swift */; };
 		CBC259782B6B31F200E5FA56 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC259772B6B31F200E5FA56 /* ContentView.swift */; };
 		CBC2597A2B6B31F300E5FA56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC259792B6B31F300E5FA56 /* Assets.xcassets */; };
 		CBC2597D2B6B31F300E5FA56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC2597C2B6B31F300E5FA56 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		CBC259722B6B31F200E5FA56 /* Spottyfy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spottyfy.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CBC259752B6B31F200E5FA56 /* SpottyfyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpottyfyApp.swift; sourceTree = "<group>"; };
+		CBC259752B6B31F200E5FA56 /* SpottyfiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpottyfiApp.swift; sourceTree = "<group>"; };
 		CBC259772B6B31F200E5FA56 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CBC259792B6B31F300E5FA56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBC2597C2B6B31F300E5FA56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		CBC259742B6B31F200E5FA56 /* Spottyfy */ = {
 			isa = PBXGroup;
 			children = (
-				CBC259752B6B31F200E5FA56 /* SpottyfyApp.swift */,
+				CBC259752B6B31F200E5FA56 /* SpottyfiApp.swift */,
 				CBC259772B6B31F200E5FA56 /* ContentView.swift */,
 				CBC259792B6B31F300E5FA56 /* Assets.xcassets */,
 				CBC2597B2B6B31F300E5FA56 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBC259782B6B31F200E5FA56 /* ContentView.swift in Sources */,
-				CBC259762B6B31F200E5FA56 /* SpottyfyApp.swift in Sources */,
+				CBC259762B6B31F200E5FA56 /* SpottyfiApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
