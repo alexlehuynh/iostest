@@ -9,10 +9,10 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-            
+        
         Image("poop")
             .resizable()
-            .cornerRadius(15)
+            .cornerRadius(14)
             .aspectRatio(contentMode: .fit)
         
     }
